@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "img": "https://example.com/image1.jpg",
+      "title": "Exciting Match: Team A vs Team B",
+      "category": "sport",
+      "publish_date": "April 6, 2024"
+    },
+    {
+      "id": 2,
+      "img": "https://example.com/image2.jpg",
+      "title": "Sports News: Latest Updates",
+      "category": "sport",
+      "publish_date": "April 5, 2024"
+    },
+    {
+      "id": 3,
+      "img": "https://example.com/image3.jpg",
+      "title": "Athletic Championship Highlights",
+      "category": "sport",
+      "publish_date": "April 4, 2024"
+    }
+  ]
+  

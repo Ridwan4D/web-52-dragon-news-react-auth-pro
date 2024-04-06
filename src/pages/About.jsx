@@ -1,10 +1,11 @@
+import Nav from "./Shared/Nav";
 
 const About = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <Nav></Nav>
+    </div>
+  );
 };
 
 export default About;
